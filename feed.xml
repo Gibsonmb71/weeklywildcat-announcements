@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Weekly Wildcat Announcements</title>
+    <link>https://dev.weeklywildcat.com/</link>
+    <description>Latest announcements from Weekly Wildcat</description>
+    <language>en-us</language>
+
+    <!-- Announcement #1 -->
+    <item>
+      <title>Welcome to Weekly Wildcat!</title>
+      <description>Our first announcement has arrived. Stay tuned for updates!</description>
+      <pubDate>Tue, 06 Jan 2026 12:00:00 +0000</pubDate>
+      <guid>weeklywildcat-1</guid>
+    </item>
+
+    <!-- Announcement #2 -->
+    <item>
+      <title>Second Announcement</title>
+      <description>Here’s another update for this week!</description>
+      <pubDate>Wed, 07 Jan 2026 09:00:00 +0000</pubDate>
+      <guid>weeklywildcat-2</guid>
+    </item>
+
+    <!-- Add more announcements below -->
+  </channel>
+</rss>
